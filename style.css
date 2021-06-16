@@ -1,0 +1,215 @@
+html{
+    background-color: #404040;
+    color: lightgoldenrodyellow;
+    text-align: center;
+    font-size: 1.4em;
+    height: 100%;
+}
+body {
+    min-width: 700px;
+    height: 98%;
+}
+
+table, tr, th {
+    border: 1px solid lightgoldenrodyellow;
+    color: lightgoldenrodyellow;
+    border-collapse: collapse;
+    background-color: #707070;
+}
+table {
+    margin: 0 auto;
+    width: 100%;
+}
+th, td {
+    border: 1px solid lightgoldenrodyellow;
+    color: lightgoldenrodyellow;
+    border-collapse: collapse;
+    width: auto;
+}
+
+a:link {
+	color: rgb(0, 200, 0);
+    font-weight: bold;
+	margin: 3px 0;
+}
+a:visited {
+	color: rgb(0, 100, 0);
+    font-weight: bold;
+}
+
+td>a:link {
+	color: yellow;
+	margin: 3px 0;
+}
+td>a:visited {
+	color: orange;
+}
+
+header {
+    background: lightblue;
+    border: 3px solid blue;
+    border-radius: 12px 12px 0 0;
+    text-align: left;
+    height: 60px;
+}
+h1 {
+    font-variant: small-caps;
+}
+header h1 {
+    display: inline;
+    color: green;
+    padding: 10px;
+    font-size: 220%;
+}
+header a {
+    float: right;
+    padding: 10px;
+    font-size: 150%;
+    color: green;
+    padding: 10px;
+}
+
+main {
+    background: lightblue;
+    border: 3px solid blue;
+    border-radius: 0 0 12px 12px;
+    text-align: center;
+    color: green;
+    padding: 5px;
+}
+
+#user {
+    text-align: center;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+#name {
+    color: darkred;
+}
+
+#months {
+    text-align: center;
+}
+
+.full {
+    display: flex;
+    justify-content: center;
+    background-color: indianred;
+}
+.notfull {
+    display: flex;
+    justify-content: center;
+    background-color: mediumseagreen;
+}
+
+#appointment {
+    background-color: red;
+    color: yellow;
+    font-size: 2em;
+}
+.days {
+    height: 30px;
+    background-color: #303030;
+}
+.apps {
+    height: 60px;
+}
+.apps th, .apps td {
+    width: 14%;
+}
+#daysHeader th {
+    background-color: #000000;
+}
+
+/* login.php, register.php, apply.php */
+#container {
+    font-size: 1.4em;
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid blue;
+    background: lightblue;
+    color: blue;
+}
+
+#form, #form tr, #form th, #form td {
+    border: none;
+    background: lightblue;
+    font-weight: bold;
+    width: unset;
+    color: blue;
+}
+
+#form tr td:first-child {
+    text-align: left;
+    width: 200px;
+}
+
+#form {
+    width: 90%;
+    margin: 20px auto;
+}
+
+input {
+    margin-bottom: 10px;
+    font-size: 0.8em;
+    color: lightgoldenrodyellow;
+}
+
+td>input {
+    width: 90%;
+    border: none;
+    background: white;
+    color: black;
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+
+input[type="submit"], button {
+    font-size: 1.4em;
+    color: lime;
+    border-color: lime;
+    background: rgb(0, 100, 0);
+}
+input[type="submit"]:hover, button:hover {
+    color:  rgb(0, 100, 0);
+    border-color:  rgb(0, 100, 0);
+    background: lime;
+    cursor: pointer;
+}
+.hibak {
+    list-style-type: none;
+    color: red;
+    font-weight: bold;
+}
+.hiba {
+    color: red;
+    font-weight: bold;
+    font-size: 0.6em;
+    top: 0px;
+}
+
+.titlepage {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.titlepage:link {
+	color: yellow;
+	margin: 3px 0;
+}
+.titlepage:visited {
+    color: orange;
+}
+#check {
+    font-size: 0.6em;
+}
+
+#applied {
+    width: 100%;
+}
+
+#applied td {
+    width: 25%;
+    height: 40px;
+}

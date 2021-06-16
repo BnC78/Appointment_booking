@@ -1,0 +1,34 @@
+{
+    "admin@nemkovid.hu": {
+        "name": "admin",
+        "taj": "000000000",
+        "address": "Nincs",
+        "email": "admin@nemkovid.hu",
+        "password": "$2y$10$eVLE.Z3tn79E6XfMPdCjaurPfy4.2i0oq4fT3AJy\/ua.tWu7KqKii",
+        "appointment": false
+    },
+    "kiss.pista@email.hu": {
+        "name": "Kiss Pista",
+        "taj": "000000002",
+        "address": "Kiss Pista lak\u00e1sa",
+        "email": "kiss.pista@email.hu",
+        "password": "$2y$10$Otk2FKA.kVCTI.3gT0.qrual3yH4Nyf.nG.WBKI0KbrwuM5yGh3WC",
+        "appointment": "0"
+    },
+    "szabo.miklos@email.hu": {
+        "name": "Szab\u00f3 Mikl\u00f3s",
+        "taj": "000000003",
+        "address": "Szab\u00f3 Mikl\u00f3s lak\u00e1sa",
+        "email": "szabo.miklos@email.hu",
+        "password": "$2y$10$ti\/Dl\/MpjeDLU0uGkdq1K.by5xQ6wk4ttlZ.K2Y2pnnW8UDd9nLNm",
+        "appointment": "0"
+    },
+    "nagy.peter@email.hu": {
+        "name": "Nagy P\u00e9ter",
+        "taj": "000000004",
+        "address": "Nagy P\u00e9ter lak\u00e1sa",
+        "email": "nagy.peter@email.hu",
+        "password": "$2y$10$APWjJfORsir811kXQYPK5uNhscfFbVV4tMV7jVK\/g2UDs0LsT87.e",
+        "appointment": "1"
+    }
+}

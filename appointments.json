@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2020-12-14",
+        "time": "10:20",
+        "places": "2",
+        "users": [
+            "szabo.miklos@email.hu",
+            "kiss.pista@email.hu"
+        ]
+    },
+    {
+        "date": "2020-12-24",
+        "time": "10:10",
+        "places": "4",
+        "users": [
+            "nagy.peter@email.hu"
+        ]
+    },
+    {
+        "date": "2020-11-27",
+        "time": "08:00",
+        "places": "3",
+        "users": []
+    },
+    {
+        "date": "2021-01-12",
+        "time": "12:00",
+        "places": "7",
+        "users": []
+    },
+    {
+        "date": "2021-01-12",
+        "time": "16:00",
+        "places": "4",
+        "users": []
+    },
+    {
+        "date": "2021-02-04",
+        "time": "16:00",
+        "places": "3",
+        "users": []
+    }
+]

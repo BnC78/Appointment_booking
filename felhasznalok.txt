@@ -1,0 +1,4 @@
+Email: admin@nemkovid.hu; Jelszó: admin
+Email: kiss.pista@email.hu; Jelszó: KissPista2
+Email: szabo.miklos@email.hu; Jelszó: SzabóMiklós3
+Email: nagy.peter@email.hu; Jelszó: NagyPéter4
